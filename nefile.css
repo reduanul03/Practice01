@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Img1{
+    background-image: url(Pics/pexels-pixabay-70365.jpg);
+    min-height: 1000px;    
+}
+.Img2{
+  background-image: url(Pics/bangladesh-4690978_1280.jpg);
+  min-height: 1000px;
+}
+.Img3{
+  background-image: url(Pics/640px-Beauty_of_Nature_in_Bangladesh.jpeg);
+  min-height: 1000px;
+}
+.Img4{
+ background-image: url(Pics/village-bangladesh-during-sunset-260nw-552879889.webp);
+ min-height: 1000px;
+}
+.Img1,.Img2,.Img3,.Img4{
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.con{
+    position: absolute;
+    top: 400px;
+    color: rgb(20, 20, 20);
+    background-color: aqua;
+    text-align: center;
+    border: black solid;
+    border-radius: 2px;
+    padding: 15px;
+    width: 120px;
+    height: 30px;
+    margin-left: 900px;
+}
+.Abid{
+    text-decoration: solid;
+    text-decoration: double;
+    font-size: larger;
+}
+.new1{
+    background-color: black;
+}
+.new1, h1{
+    color: aliceblue;
+    text-align: center;
+}
+.Abis{
+    text-align: right;
+    color: aqua;
+}
+.con1{
+    position: absolute;
+    top: 400px;
+    color: rgb(20, 20, 20);
+    background-color: aqua;
+    text-align: center;
+    border: black solid;
+    border-radius: 2px;
+    padding: 15px;
+    width: 120px;
+    height: 30px;
+    margin-left: 900px;
+}
+.new2{
+    background-color: black;
+}
+.new2, h1{
+    color: aliceblue;
+    text-align: center;
+}
+.abi {
+    color: aqua;
+    text-align: center;
+}
+.con2{
+    position: absolute;
+    top: 400px;
+    color: rgb(20, 20, 20);
+    background-color: aqua;
+    text-align: center;
+    border: black solid;
+    border-radius: 2px;
+    padding: 15px;
+    width: 120px;
+    height: 30px;
+    margin-left: 900px;
+}
+.new3{
+    background-color: black;
+}
+.new3, h1{
+    color: aliceblue;
+    text-align: center;
+}
+.ab {
+    color: aqua;
+    text-align: center;
+}
+.con3{
+    position: absolute;
+    top: 400px;
+    color: rgb(20, 20, 20);
+    background-color: aqua;
+    text-align: center;
+    border: black solid;
+    border-radius: 2px;
+    padding: 15px;
+    width: 120px;
+    height: 30px;
+    margin-left: 900px;
+}
+.new4{
+    background-color: black;
+}
+.new4, h1{
+    color: aliceblue;
+    text-align: center;
+}
+.a {
+    color: aqua;
+    text-align: center;
+}
